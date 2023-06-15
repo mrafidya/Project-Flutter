@@ -1,7 +1,8 @@
 # menilik1
 
 A new Flutter application.
-aplikasi yang berfungsi untuk menghitung body mass index dan menentukan apakah berat badan ideal atau tidak
+
+Aplikasi yang berfungsi untuk menghitung body mass index dan menentukan apakah berat badan ideal atau tidak
 
 ## Getting Started
 
